@@ -18,7 +18,7 @@ Laptop, Google Chrome browser and a text editor. If you do not have a text edito
 
 ## Slides
 
-The lesson slides for this workshop can be found [here](https://docs.google.com/presentation/d/15Pyhsl6y_z_puirUJT5nhdouwCJpeKwRv7PNVYPbs0w/edit#slide=id.g5f8fe97093_0_0.
+The lesson slides for this workshop can be found [here](https://docs.google.com/presentation/d/15Pyhsl6y_z_puirUJT5nhdouwCJpeKwRv7PNVYPbs0w/edit#slide=id.g5f8fe97093_0_0).
 
 # How to use this repository
 
