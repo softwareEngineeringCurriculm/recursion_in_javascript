@@ -20,16 +20,6 @@ Laptop, Google Chrome browser and a text editor. If you do not have a text edito
 
 The lesson slides for this workshop can be found [here](https://docs.google.com/presentation/d/15Pyhsl6y_z_puirUJT5nhdouwCJpeKwRv7PNVYPbs0w/edit#slide=id.g5f8fe97093_0_0).
 
-# How to use this repository
-
-### Let's get started...
-
-Run the SpecRunner.html file in a browser. This document currently shows 4 failing tests.
-
-- The `spec` folder holds all the failing tests that are being displayed in SpecRunner.html.
-- The `src` folder holds the functions that are being called to run the tests.
-- Your task is to edit the files in `src` to complete the functions and get the tests to pass.
-- These files are just javascript files so you can use `console.log` to help debug and inspect these functions.
 
 ## Recursion Review
 
