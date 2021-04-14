@@ -64,15 +64,15 @@ More detailed instructions and examples for each exercise can be found in the in
 
 ### 1: sumArray
 
-- [ ] Implement `sumArray` with your own code in `src/sumArray.js`
+- [ ] Implement `sumArray` with your own code in `Exercises/sumArray.js`
 
 ### 2: power
 
-- [ ] Implement `power` with your own code in `src/power.js`
+- [ ] Implement `power` with your own code in `Exercises/power.js`
 
 ### 3: nthFibonacci
 
-- [ ] Implement `nthFibonacci` with your own code in `src/nthFibonacci.js`
+- [ ] Implement `nthFibonacci` with your own code in `Exercises/nthFibonacci.js`
 
 
 ### Don't forget..
