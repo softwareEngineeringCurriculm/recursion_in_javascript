@@ -16,11 +16,6 @@ No textbook is required for this workshop. All materials are included in this Gi
 
 Laptop, Google Chrome browser and a text editor. If you do not have a text editor, we recommend Visual Studio Code, Sublime Text, or Atom.
 
-## Slides
-
-The lesson slides for this workshop can be found [here](https://docs.google.com/presentation/d/15Pyhsl6y_z_puirUJT5nhdouwCJpeKwRv7PNVYPbs0w/present#slide=id.g5f8fe97093_0_0).
-
-
 ## Recursion Review
 
 Recursion is a technique for solving problems wherein a function makes calls to itself. By doing so, it can complete a small amount of the processing, and delegate the rest of the problem to the recursive calls.
