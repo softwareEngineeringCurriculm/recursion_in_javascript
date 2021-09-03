@@ -18,5 +18,10 @@
 
 var nthFibonacci = function(n) {
   // Your code here
+  if ( n = 0 ) {
+    return 0;
+  } else {
+    return function(n-1) + function (n-2);
+  }
 };
 
